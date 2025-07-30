@@ -7,26 +7,16 @@ I'm a product-oriented backend developer with 2+ years of experience building mo
 
 ## 🛠️ Tech Stack
 
-💻 Programming Languages: Java, JavaScript, TypeScript, Rust, Go, Python
-
-🔧 Build Tools: Maven, Gradle
-
-⚙️ Frameworks: Spring Boot, NestJS, React, Next.js, Actix Web
-
-🌐 APIs: REST, Swagger/OpenAPI, gRPC, GraphQL
-
-🧪 Testing: JUnit, Mockito, Spock, REST Assured, Karate
-
-🗄️ Databases & Storage: PostgreSQL, MySQL, MongoDB, Redis, AWS S3
-
-☁️ Cloud Platforms: Microsoft Azure, AWS
-
-🌍 Web Development: API integration, microservices, cloud-native applications
-
-🚀 CI/CD: GitHub Actions, ArgoCD, Blue-Green Deployment
-
-📊 Monitoring: Grafana, Prometheus
-
+💻 Programming Languages: Java, JavaScript, TypeScript, Rust, Go, Python  
+🔧 Build Tools: Maven, Gradle  
+⚙️ Frameworks: Spring Boot, NestJS, React, Next.js, Actix Web  
+🌐 APIs: REST, Swagger/OpenAPI, gRPC, GraphQL  
+🧪 Testing: JUnit, Mockito, Spock, REST Assured, Karate  
+🗄️ Databases & Storage: PostgreSQL, MySQL, MongoDB, Redis, AWS S3  
+☁️ Cloud Platforms: Microsoft Azure, AWS  
+🌍 Web Development: API integration, microservices, cloud-native applications  
+🚀 CI/CD: GitHub Actions, ArgoCD, Blue-Green Deployment  
+📊 Monitoring: Grafana, Prometheus  
 🛠️ Other Tools & Practices: JPA, Hibernate, Agile (Scrum, Kanban), Jira, Confluence, Code Reviews, Refactoring, Pair Programming
 
 ## 🎓 Education & Learning
@@ -37,9 +27,11 @@ I'm a product-oriented backend developer with 2+ years of experience building mo
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bobul)
-- 📩 Open to backend roles in product-focused teams (remote or EU-based)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bobul)  
+- 📧 ihor.bobul.dev@gmail.com  
+- 📩 Open to backend or full-stack roles in product-focused teams (remote or on-site)  
+- 🌍 Based in Estonia | Open to **remote work globally** (EU, US, or worldwide) | No visa sponsorship required for EU
 
 ---
 
-> “Code is only as good as the problems it solves.”  
+> “Code is only as good as the problems it solves.”
