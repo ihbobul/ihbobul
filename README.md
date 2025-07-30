@@ -28,7 +28,7 @@ I'm a product-oriented backend developer with 2+ years of experience building mo
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bobul)  
-- 📧 ihor.bobul.dev@gmail.com  
+- 📧 ihorbobuly@gmail.com  
 - 📩 Open to backend or full-stack roles in product-focused teams (remote or on-site)  
 - 🌍 Based in Estonia | Open to **remote work globally** (EU, US, or worldwide) | No visa sponsorship required for EU
 
