@@ -21,8 +21,8 @@ I'm a product-oriented backend developer with 2+ years of experience building mo
 
 ## 🎓 Education & Learning
 
-🎓 BSc in Software Engineering – Tallinn University of Technology  
-🎓 BSc (in progress) – Kyiv Polytechnic Institute  
+🎓 BSc in Cybersecurity Engineering – Tallinn University of Technology  
+🎓 BSc in Software Engineering (in progress) – Kyiv Polytechnic Institute  
 🎓 Graduate of Rust Bootcamp by the Ukrainian Rust Community
 
 ## 📫 Let's Connect
