@@ -7,14 +7,27 @@ I'm a product-oriented backend developer with 2+ years of experience building mo
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, TypeScript, Rust, Go, Python  
-**Backend:** Spring Boot, Actix Web, NestJS  
-**Frontend:** React, Next.js  
-**APIs:** REST, gRPC, GraphQL, OpenAPI  
-**Cloud:** AWS, Azure  
-**CI/CD:** GitHub Actions, ArgoCD  
-**Monitoring:** Prometheus, Grafana  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+💻 Programming Languages: Java, JavaScript, TypeScript, Rust, Go, Python
+
+🔧 Build Tools: Maven, Gradle
+
+⚙️ Frameworks: Spring Boot, NestJS, React, Next.js, Actix Web
+
+🌐 APIs: REST, Swagger/OpenAPI, gRPC, GraphQL
+
+🧪 Testing: JUnit, Mockito, Spock, REST Assured, Karate
+
+🗄️ Databases & Storage: PostgreSQL, MySQL, MongoDB, Redis, AWS S3
+
+☁️ Cloud Platforms: Microsoft Azure, AWS
+
+🌍 Web Development: API integration, microservices, cloud-native applications
+
+🚀 CI/CD: GitHub Actions, ArgoCD, Blue-Green Deployment
+
+📊 Monitoring: Grafana, Prometheus
+
+🛠️ Other Tools & Practices: JPA, Hibernate, Agile (Scrum, Kanban), Jira, Confluence, Code Reviews, Refactoring, Pair Programming
 
 ## 🎓 Education & Learning
 
