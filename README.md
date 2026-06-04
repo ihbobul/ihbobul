@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ihor — Software Engineer
 
-I'm a product-oriented backend developer with 2+ years of experience building modern, scalable applications with Java, Spring Boot, and Rust. I currently work with Inditex (Zara, Pull&Bear, Bershka), where I develop robust APIs that aggregate and analyze financial data across business domains.
+I'm a product-oriented backend developer with 3+ years of experience building modern, scalable applications with Java, Spring Boot, and Rust. I currently work with Inditex (Zara, Pull&Bear, Bershka), where I develop robust APIs that aggregate and analyze financial data across business domains.
 
 🔧 I enjoy solving real-world problems through clean code, system design, and cross-functional collaboration.  
 🚀 I'm also passionate about cloud-native development, DevOps automation, and emerging technologies like Rust and Go.
